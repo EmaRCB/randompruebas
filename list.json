@@ -3,27 +3,40 @@
         "userId": 1,
         "id": 1,
         "nombre": "Taylor",
+        "apellido": "Swift",
         "matricula": "1989",
         "fecha": "02/56/2023",
-        "area": "psicologia",
+        "area": "Psicologia",
         "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
         "userId": 1,
         "id": 2,
-        "nombre": "Marina",
+        "nombre": "Selena",
+        "apellido": "Gomez",
         "matricula": "9393",
         "fecha": "02/56/2023",
-        "area": "psicologia",
+        "area": "Psicologia",
         "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
         "userId": 1,
-        "id": 1,
+        "id": 3,
         "nombre": "Jijiji",
-        "matricula": "9393",
+        "apellido": "Awww",
+        "matricula": "1345",
         "fecha": "13/12/1989",
-        "area": "",
+        "area": "Psicologia",
+        "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+        "userId": 2,
+        "id": 1,
+        "nombre": "Lucy",
+        "apellido": "Gray",
+        "matricula": "2334",
+        "fecha": "12/10/1900",
+        "area": "Terapia de deportes",
         "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     }
 ]
