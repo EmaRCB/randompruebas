@@ -1,0 +1,53 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #555;
+  }
+
+  .title{
+    font-weight: bold;
+    margin-bottom: 2px;
+  }
+
+  .subtitle{
+    opacity: 90%;
+    margin-bottom: 2px;
+  }
+  
+  p {
+    color: #777;
+  }
+  
+  .img-fluid {
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  #edu-container{
+    background-color: gainsboro;
+  }
+
+  /* Responsiveness */
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  
