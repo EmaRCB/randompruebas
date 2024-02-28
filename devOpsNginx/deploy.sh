@@ -7,7 +7,8 @@ sudo systemctl stop nginx
 pkill ngrok
 
 # Clonar repositorio
-cd randompruebas
+cd ..
+cd ..
 git pull
 
 # Encender NGINX y NGROK
