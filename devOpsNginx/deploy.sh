@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Detener NGINX
 sudo systemctl stop nginx
 # Detener NGROK
