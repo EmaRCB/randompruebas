@@ -1,6 +1,6 @@
 #!/bin/bash
 # Detener NGINX
-sudo systemctl stop systemd-escape "nginx\x0d"
+sudo systemctl stop systemd-escape"nginx "
 # Detener NGROK
 pkill ngrok
 # Clonar repositorio
