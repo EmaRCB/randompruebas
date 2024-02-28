@@ -8,7 +8,6 @@ pkill ngrok
 
 # Clonar repositorio
 cd ..
-cd ..
 git pull
 
 # Encender NGINX y NGROK
