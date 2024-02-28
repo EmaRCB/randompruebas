@@ -14,6 +14,6 @@ git pull
 sudo systemctl start nginx
 
 # Extrae el url de NGROK y mostrarlo
-ngrok_url=$(echo "ngrok http 80" | awk '/^Forwarding/ {print $2}')
+ngrok_url=$(echo "ngrok http 8080" | awk '/^Forwarding/ {print $2}')
 
 echo "NGROK URL: $ngrok_url"
