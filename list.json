@@ -5,38 +5,38 @@
         "nombre": "Taylor",
         "apellido": "Swift",
         "matricula": "1989",
-        "fecha": "02/56/2023",
-        "area": "Psicologia",
-        "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        "fecha": "2023-02-05",
+        "area": "Psicología",
+        "observaciones": "El paciente presentó síntomas de ansiedad y estrés relacionados con su carrera profesional. Se recomienda seguimiento psicológico regular para controlar el progreso del tratamiento."
     },
     {
-        "userId": 1,
+        "userId": 2,
         "id": 2,
         "nombre": "Selena",
         "apellido": "Gomez",
         "matricula": "9393",
-        "fecha": "02/56/2023",
-        "area": "Psicologia",
-        "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        "fecha": "2023-02-05",
+        "area": "Psicología",
+        "observaciones": "Se observaron signos de depresión leve en el paciente durante la consulta. Se ha sugerido un plan de tratamiento que incluye terapia cognitivo-conductual y medicación, si es necesario."
     },
     {
-        "userId": 1,
+        "userId": 3,
         "id": 3,
-        "nombre": "Jijiji",
-        "apellido": "Awww",
+        "nombre": "Justin",
+        "apellido": "Bieber",
         "matricula": "1345",
-        "fecha": "13/12/1989",
-        "area": "Psicologia",
-        "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        "fecha": "1989-12-13",
+        "area": "Psicología",
+        "observaciones": "El paciente reportó problemas de relación interpersonal y estrés asociado con la fama. Se recomienda terapia de pareja y sesiones de relajación para gestionar el malestar emocional."
     },
     {
-        "userId": 2,
-        "id": 1,
-        "nombre": "Lucy",
-        "apellido": "Gray",
+        "userId": 4,
+        "id": 4,
+        "nombre": "Shakira",
+        "apellido": "Mebarak",
         "matricula": "2334",
-        "fecha": "12/10/1900",
-        "area": "Terapia de deportes",
-        "observaciones": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        "fecha": "1900-10-12",
+        "area": "Terapia de Deportes",
+        "observaciones": "Durante la evaluación, se identificaron lesiones musculares en el paciente debido a una mala técnica de entrenamiento. Se prescribe reposo, fisioterapia y un plan de ejercicios específico para la recuperación."
     }
 ]
